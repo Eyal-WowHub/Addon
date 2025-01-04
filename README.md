@@ -2,6 +2,8 @@
 
 A library that facilitates object creation and event handling, providing essential infrastructure for addons.
 
+#### Dependencies: [LibStub](https://www.curseforge.com/wow/addons/libstub), [Contracts](https://github.com/eyal-wow-addons/Contracts)
+
 ### Example:
 
 ```lua
